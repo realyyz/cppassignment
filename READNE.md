@@ -41,6 +41,7 @@ Write a program which finds the answers to the following questions. Calculate th
 What is the probability that a child who is in third class and is 10 years old or younger survives? Sincethe number of data points that satisfy the condition is small use the "bayesian" approach and represent your probability as a beta distribution.
 Calculate a belief distribution for:
 • S= true | A<=10,C=3
+
 ## Problem 4
 You can express your answer as a parameterized distribution. How much did people pay to be on the ship? Calculate the expectation of fare conditioned on passenger-class:
 • E[X | C=1]
