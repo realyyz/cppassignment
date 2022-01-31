@@ -11,6 +11,8 @@ In this part we will manipulate Array and matrix :
     * Print transpose matrix.
     * Transform the original matrix in a mono dimensional array.
 
+[code example](./Array_and_Matrix.cpp)
+
 ******************
 
 # Function, array, matrix
@@ -23,6 +25,8 @@ In the main file add the necessary code to test and validate your encryption
 
 ## Problem 2
 Create functions to inverse the encryption
+
+[code example](./encryption.cpp)
 
 ***
 # Object, functions, statistics
@@ -53,3 +57,5 @@ You can express your answer as a parameterized distribution. How much did people
 * E[X | C=1]
 * E[X | C=2]
 * E[X | C=3]
+
+[code example](./titanic.cpp)
